@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d91e4cd5-6098-4f21-a301-bdbc3650c758" name="Changes" comment="Completed Task2.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Task3.java" afterDir="false" />
+    <list default="true" id="d91e4cd5-6098-4f21-a301-bdbc3650c758" name="Changes" comment="Completed Task3.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Task4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Task2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +77,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task3">
+  <component name="RunManager" selected="Application.Task4">
     <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Task1" />
       <module name="SDT_Poberezhets" />
@@ -118,8 +117,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Task4" />
+      <module name="SDT_Poberezhets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task1" />
@@ -163,7 +176,21 @@
       <option name="project" value="LOCAL" />
       <updated>1708980665013</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Refactored Task2.">
+      <created>1709030681020</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709030681020</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Completed Task3.">
+      <created>1709030695057</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709030695057</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,6 +251,8 @@
     <MESSAGE value="Test" />
     <MESSAGE value="Completed task 1." />
     <MESSAGE value="Completed Task2." />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed Task2." />
+    <MESSAGE value="Refactored Task2." />
+    <MESSAGE value="Completed Task3." />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Task3." />
   </component>
 </project>
